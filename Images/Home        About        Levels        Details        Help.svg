@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="388" height="16" viewBox="0 0 388 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff5912;
+        font-size: 14px;
+        font-family: Ubuntu;
+      }
+
+      .cls-2 {
+        fill: #34404b;
+      }
+    </style>
+  </defs>
+  <text id="Home_About_Levels_Details_Help" data-name="Home        About        Levels        Details        Help" class="cls-1"><tspan x="46.643" y="13" xml:space="preserve">Home        </tspan><tspan class="cls-2" y="13" xml:space="preserve">About        Levels        Details        Help</tspan></text>
+</svg>

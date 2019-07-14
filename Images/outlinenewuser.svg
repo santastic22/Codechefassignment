@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.725" height="33" viewBox="0 0 105.725 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff5912;
+      }
+    </style>
+  </defs>
+  <path id="Path_45" data-name="Path 45" class="cls-1" d="M523.124,452.4H421.565c-.854,0-1.565-1.458-1.565-3.207V423.607c0-1.75.711-3.207,1.565-3.207H523.159c.854,0,1.565,1.458,1.565,3.207v25.586C524.689,450.942,523.978,452.4,523.124,452.4Z" transform="translate(-419.5 -419.9)"/>
+</svg>

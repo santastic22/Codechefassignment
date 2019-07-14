@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="16" viewBox="0 0 62 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #34404b;
+        font-size: 14px;
+        font-family: Ubuntu;
+      }
+    </style>
+  </defs>
+  <text id="New_User" data-name="New User" class="cls-1" transform="translate(0 13)"><tspan x="0" y="0">New User</tspan></text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="227" height="23" viewBox="0 0 227 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f2;
+        font-size: 20px;
+        font-family: Ubuntu;
+      }
+    </style>
+  </defs>
+  <text id="Last_Date_of_Registration" data-name="Last Date of Registration" class="cls-1" transform="translate(0 19)"><tspan x="0" y="0">Last Date of Registration</tspan></text>
+</svg>

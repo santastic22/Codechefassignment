@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="23" viewBox="0 0 103 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2f2f2;
+        font-size: 20px;
+        font-family: Ubuntu;
+      }
+    </style>
+  </defs>
+  <text id="Exam_Date_" data-name="Exam Date " class="cls-1" transform="translate(0 19)"><tspan x="0" y="0">Exam Date </tspan></text>
+</svg>

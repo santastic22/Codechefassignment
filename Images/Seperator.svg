@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1" height="25" viewBox="0 0 1 25">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: #f2f2f2;
+        opacity: 0.667;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="1" height="25"/>
+    </clipPath>
+  </defs>
+  <g id="Seperator" class="cls-2">
+    <line id="Seperator-2" data-name="Seperator" class="cls-3" y2="25" transform="translate(0.5)"/>
+  </g>
+</svg>
